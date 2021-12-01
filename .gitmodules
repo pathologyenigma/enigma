@@ -1,0 +1,4 @@
+[submodule "enigma_app--reference"]
+	path = crates/enigma_app
+	url = https://github.com/pathologyenigma/enigma_app.git
+	branch = master

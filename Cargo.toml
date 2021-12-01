@@ -10,4 +10,4 @@ members = ["crates/*", "viewer"]
 default-members = ["viewer"]
 
 [dependencies]
-obsidian_app = { path = "crates/enigma_app" }
+enigma_app = { path = "crates/enigma_app" }

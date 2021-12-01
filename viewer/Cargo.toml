@@ -8,4 +8,4 @@ edition = "2021"
 [dependencies]
 enigma = { path = ".." }
 anyhow = "1.0.44"
-log = "0.4.14"
+tracing = "0.1.29"
